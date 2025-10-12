@@ -1,4 +1,4 @@
-# Data Scientist
+# Artificial Intelligence Engineer & Machine Learning Engineer
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
