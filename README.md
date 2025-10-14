@@ -10,7 +10,6 @@ I am passionate about data-driven decision-making and am seeking opportunities t
 - **Kazan National Research Technical University named after A.N. Tupolev KNRTU-KAI**	| **BSc (Hons) Technical Exploitation of Aircrafts and Engines (_2019_)** | **First Class Honours** | **Grade Point Average (GPA): 4.85 (maximum 5.00)**
 
 ## Technical Skills
-
 -  **Languages:** Python, JAVA, Scala, MATLAB, Prolog, NetLogo.
 -  **Machine learning libraries:** Pandas, Matplotlib, Seaborn, Scikit-learn, NumPy, SciPy.
 -  **Artificial neural network libraries:** Keras, TensorFlow.
@@ -19,25 +18,6 @@ I am passionate about data-driven decision-making and am seeking opportunities t
 -  **Semantic Web and Ontological Engineering:** Protégé ontology editor, Web Ontology Language (OWL), SPARQL query language for RDF.
 -  **Data Mining and Data Warehousing:** RapidMiner, Weka.
 -  **Natural language processing libraries:** Natural Language Toolkit
-
-
-
-
-
-
-
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-
-
-
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
@@ -53,6 +33,25 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
+
+
+
+
+
+
+
+
+
+## Work Experience
+**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
+- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+
+**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
+- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+
+
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
@@ -76,3 +75,6 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
 - [Data Science Blog](https://medium.com/@shawhin)
+
+#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+
