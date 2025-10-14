@@ -11,14 +11,14 @@ I am passionate about data-driven decision-making and am seeking opportunities t
 
 ## Technical Skills
 
--  Languages: Python, JAVA, Scala, MATLAB, Prolog, NetLogo.
--  Machine learning libraries: Pandas, Matplotlib, Seaborn, Scikit-learn, NumPy, SciPy.
--  Artificial neural network libraries: Keras, TensorFlow.
--  Reinforcement learning library: OpenAI Gym.
--  Distributed computing: Apache Spark, Spark SQL, Spark MLlib, SQL.
--  Semantic Web and Ontological Engineering: Protégé ontology editor, Web Ontology Language (OWL), SPARQL query language for RDF.
--  Data Mining and Data Warehousing: RapidMiner, Weka.
--  Natural language processing libraries: Natural Language Toolkit
+-  **Languages:** Python, JAVA, Scala, MATLAB, Prolog, NetLogo.
+-  **Machine learning libraries:** Pandas, Matplotlib, Seaborn, Scikit-learn, NumPy, SciPy.
+-  **Artificial neural network libraries:** Keras, TensorFlow.
+-  **Reinforcement learning library:** OpenAI Gym.
+-  **Distributed computing:** Apache Spark, Spark SQL, Spark MLlib, SQL.
+-  **Semantic Web and Ontological Engineering:** Protégé ontology editor, Web Ontology Language (OWL), SPARQL query language for RDF.
+-  **Data Mining and Data Warehousing:** RapidMiner, Weka.
+-  **Natural language processing libraries:** Natural Language Toolkit
 
 
 
