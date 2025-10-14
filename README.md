@@ -9,6 +9,22 @@ I am passionate about data-driven decision-making and am seeking opportunities t
 - **University of Moratuwa** | **Postgraduate Diploma in Artificial Intelligence (_2024_)**	 		
 - **Kazan National Research Technical University named after A.N. Tupolev KNRTU-KAI**	| **BSc (Hons) Technical Exploitation of Aircrafts and Engines (_2019_)** | **First Class Honours** | **Grade Point Average (GPA): 4.85 (maximum 5.00)**
 
+## Technical Skills
+
+-  Languages: Python, JAVA, Scala, MATLAB, Prolog, NetLogo.
+-  Machine learning libraries: Pandas, Matplotlib, Seaborn, Scikit-learn, NumPy, SciPy.
+-  Artificial neural network libraries: Keras, TensorFlow.
+-  Reinforcement learning library: OpenAI Gym.
+-  Distributed computing: Apache Spark, Spark SQL, Spark MLlib, SQL.
+-  Semantic Web and Ontological Engineering: Protégé ontology editor, Web Ontology Language (OWL), SPARQL query language for RDF.
+-  Data Mining and Data Warehousing: RapidMiner, Weka.
+-  Natural language processing libraries: Natural Language Toolkit
+
+
+
+
+
+
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
