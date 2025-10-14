@@ -5,14 +5,19 @@ An innovative and self-motivated professional who recently completed a Postgradu
 
 I am passionate about data-driven decision-making and am seeking opportunities to gain hands-on experience and drive innovation through machine learning. I am eager to apply my skills in real-world applications and am looking to contribute my technical, problem-solving, and analytical skills, as well as my past work experience, to a data science team.
 
-
-
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-
 ## Education
+- University of Moratuwa | Postgraduate Diploma in Artificial Intelligence (_2024_)	 		
+- Kazan National Research Technical University named after A.N. Tupolev KNRTU-KAI	| BSc (Hons) Technical Exploitation of Aircrafts and Engines (_2019_) | First Class Honours | Grade Point Average (GPA): 4.85 (maximum 5.00)
+
+             		
+- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+
+
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
 - M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
 - B.S., Physics | The University of Texas at Dallas (_May 2017_)
+
+#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
