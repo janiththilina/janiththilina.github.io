@@ -21,6 +21,9 @@ I am passionate about data-driven decision-making and am seeking opportunities t
 
 ## Projects
 ### Classification of Flight Delay for Improving Operational Efficiency of Airlines (https://github.com/janiththilina/delayv1)
+
+[### Classification of Flight Delay for Improving Operational Efficiency of Airlines](https://www.mdpi.com/1424-8220/22/8/3048)
+
 -  Designed and developed a machine learning application for airlines to make proactive decisions by implementing 
 a prediction model to classify flight delays.
 -  The model was built using **Python, Pandas, MatPlotlib, Seaborn, and Scikit-learn.** A support-vector machine 
