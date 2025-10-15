@@ -20,7 +20,7 @@ I am passionate about data-driven decision-making and am seeking opportunities t
 -  **Natural language processing libraries:** Natural Language Toolkit
 
 ## Projects
-### Classification of Flight Delay for Improving Operational Efficiency of Airlines
+### Classification of Flight Delay for Improving Operational Efficiency of Airlines (https://github.com/janiththilina/delayv1)
 -  Designed and developed a machine learning application for airlines to make proactive decisions by implementing 
 a prediction model to classify flight delays.
 -  The model was built using **Python, Pandas, MatPlotlib, Seaborn, and Scikit-learn.** A support-vector machine 
